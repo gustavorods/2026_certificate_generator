@@ -11,4 +11,5 @@ import { CommonModule } from '@angular/common';
 })
 export class App {
   protected readonly title = signal('gerador-certificado');
+   exibeNavbar: boolean = true;
 }
