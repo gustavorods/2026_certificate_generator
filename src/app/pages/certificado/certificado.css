@@ -82,8 +82,8 @@
 .nome-aluno {
   font-family: "Dancing Script";
   font-weight: 700;
-  font-size: 52px;
-  line-height: 80px;
+  font-size: clamp(24px, 5vw, 52px);
+  line-height: clamp(28px, 8vw, 80px);
   letter-spacing: 0;
   text-align: center;
   color: #385ac2;
