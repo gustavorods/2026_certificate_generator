@@ -27,7 +27,7 @@
 .certificado {
   margin-top: 32px;
   background-image: url(../../../../public/certificate/certificate_bg.png);
-  width: 800px;
+  max-width: 800px;
   height: 550px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -38,7 +38,7 @@
 
 .conteudo-certificado {
   position: relative;
-  width: 720px;
+  max-width: 720px;
   height: 470px;
   background-color: #fff;
   border-radius: 8px;
@@ -90,7 +90,7 @@
 }
 
 .lista-atividade {
-  width: 413.7px;
+  max-width: 413.7px;
 }
 
 .lista-atividade-titulo {
